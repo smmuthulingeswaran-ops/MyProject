@@ -1,0 +1,21 @@
+ol{
+color:darkred;
+
+}
+#test{
+	color:navy;
+font-size:16px;
+font-family:sans-serif;
+}
+
+*{margin:10px;}
+
+.box{
+margin:20px;
+padding:15px;
+border:10px solid blue;
+border-radius:10px;
+}
+.button
+{margin-left: 150px;
+}
