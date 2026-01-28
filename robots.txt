@@ -1,4 +1,5 @@
 user-agent:*
 Disallow:/wp-admin/
 Disallow:/wp-content/
-sitemap:https://smmuthulingeswaran-ops.github.io/MyProject/sitemap.xml
+
+sitemap:https://smmuthulingeswaran-ops.github.io/MyProject/sitemaps.xml
